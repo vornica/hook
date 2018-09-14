@@ -3,7 +3,7 @@
 $secret="qwe123";
 
 //项目地址
-$path="/";
+$path="/www/wwwroot/www.miniyunpay.com";
 
 $signature =$_SERVER['HTTP_X_HUB_SIGNATURE'];
 
